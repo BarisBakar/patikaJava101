@@ -9,4 +9,4 @@
 
 
 
-(patika)[www.patika.dev]
+[patika](www.patika.dev)
