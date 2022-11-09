@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test {
+public class NotOrtalamasi {
     public static void main(String[] args) {
         int mat, fiz, kim, tur, tar, muz;
         Scanner scan = new Scanner(System.in);
