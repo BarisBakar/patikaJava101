@@ -5,3 +5,6 @@
 ## KDV uygulamasi
 
 [patika](www.patika.dev)
+
+
+asdasdas
